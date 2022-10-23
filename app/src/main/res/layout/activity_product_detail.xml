@@ -21,7 +21,8 @@
             android:layout_weight="1"
             android:ems="10"
             android:hint="Enter the product id "
-            android:inputType="text" />
+            android:inputType="text"
+            tools:ignore="TouchTargetSizeCheck,TouchTargetSizeCheck" />
 
         <TextView
             android:id="@+id/tv_product_details"
